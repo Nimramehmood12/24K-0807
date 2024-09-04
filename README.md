@@ -1,7 +1,7 @@
 I'm Nimra Mehmood.
 > I'm studying in FAST National University Karachi Campus.
 >Currently I'm enrolled in  GIAIC learning Artificial Intelligence, Web 3.0 & Metaverse.
->I also upload projects that recently I completed.
+>I also upload projects that I recently completed.
 
 1. **Introduction to typscript**\
 2. *Variables*\
